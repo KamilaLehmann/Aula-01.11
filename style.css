@@ -1,0 +1,23 @@
+body {
+    background-color: rgba(27, 33, 156, 0.373);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium;
+    font-variation-settings:var(font-size);
+    text-decoration-line:overline;
+   text-decoration-color: rgba(127, 78, 163, 0.448);
+   font-feature-settings:"c2pc";
+
+}
+h2 {
+   font-variant: small-caps;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serial;
+    text-decoration-line: underline;
+    text-decoration-color: rgb(47, 47, 107);
+    font-style: italic;
+   font-style: oblique;
+  
+}
